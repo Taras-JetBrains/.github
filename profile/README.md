@@ -4,6 +4,10 @@
 
 JetBrains PHPStorm settings repository.
 
+## [WebStorm Settings](https://github.com/Taras-JetBrains/WebStorm-Settings)
+
+JetBrains WebStorm settings repository.
+
 ## [DataGrip Settings](https://github.com/Taras-JetBrains/DataGrip-Settings)
 
 JetBrains DataGrip settings repository.
